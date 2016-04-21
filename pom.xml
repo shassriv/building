@@ -18,7 +18,7 @@
 <distributionManagement>
    <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://54.186.134.19:8080/nexus-latest/content/repositories/war/</url>
+      <url>http://54.191.215.1:8080/nexus-latest/content/repositories/Deploy/</url>
    </snapshotRepository>
 </distributionManagement>
   <build>
